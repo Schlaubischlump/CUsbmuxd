@@ -1,3 +1,3 @@
 # CUsbmuxd
 
-A swift package wrapper for [usbmuxd](https://github.com/libimobiledevice/usbmuxd).
+A swift package wrapper for [libusbmuxd](https://github.com/libimobiledevice/libusbmuxd).
